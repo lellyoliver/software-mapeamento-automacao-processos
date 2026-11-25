@@ -1,7 +1,5 @@
 # Requisitos – Software de Mapeamento e Automação de Processos (RFP)
 
-Nov 25, 2026 · @Ancora Processos
-
 ## 1. Introdução
 
 Este documento define os requisitos que a empresa exige de um software de mapeamento e automação de processos (BPM/Workflow) e serve de base para a RFP e a comparação entre fornecedores. Os requisitos são neutros: não citam nenhum produto.
